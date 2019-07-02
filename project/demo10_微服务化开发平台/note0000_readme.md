@@ -29,4 +29,5 @@ https://gitee.com/geek_qi/cloud-platform
 # 
 本文档会对具体的功能实现进行验证
 
-# 之后要用 docker 和 k8s 进行部署
+#
+ 之后要用 docker 和 k8s 进行部署
